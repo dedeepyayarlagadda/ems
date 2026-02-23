@@ -1,0 +1,3 @@
+//Settings.gradle 
+rootProject.name = 'ems-root'
+include 'ems' , 'ems-automate'
