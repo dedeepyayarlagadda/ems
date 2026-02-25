@@ -1,0 +1,4 @@
+## Add the private repository
+[[repositories]]
+name = "ems"
+git_url = "https://github.com/dedeepyayarlagadda/ems.git"
